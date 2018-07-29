@@ -1,3 +1,2 @@
-#**_INCOMPLETE_**
-#Express/GraphQL Boilerplate. Still a work in progress.
-Intended to be used as the foundation for building GraphQL APIs using Express.
+#Australian CSEF Web Scraper
+A small web application to scrape capital raising data from various Australian Crowd-Sourced Equity Funding websites.
